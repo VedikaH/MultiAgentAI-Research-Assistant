@@ -12,7 +12,16 @@
      - Tabs to navigate between features like Use Case Generation, Web Search Results, and Research Tools.
      - Easy input/output visualization of results such as structured use cases and ranked web search results.
 
-### 2. **Use Case Generator Tool**
+### 2. **Web Search Tool**
+   - Automates web search queries, retrieves relevant results, and organizes them based on relevance scores.
+   - Outputs include:
+     - Titles, URLs, summaries, and scores for retrieved content.
+
+### 3. **Industry Research Tool**
+   - Focuses on industry-specific insights and trends.
+   - Assists in understanding challenges, market innovations, and competitive strategies.
+
+### 4. **Use Case Generator Tool**
    - Generates detailed use cases for AI applications across industries.
    - Outputs include:
      - **Case Description**: Concise summary.
@@ -20,15 +29,6 @@
      - **AI Application**: Detailed explanation of AI's role.
      - **Cross-Functional Benefits**: Department-specific benefits like Operations, Finance, or Marketing.
      - **Reference Articles**: Links for additional reading.
-
-### 3. **Web Search Tool**
-   - Automates web search queries, retrieves relevant results, and organizes them based on relevance scores.
-   - Outputs include:
-     - Titles, URLs, summaries, and scores for retrieved content.
-
-### 4. **Industry Research Tool**
-   - Focuses on industry-specific insights and trends.
-   - Assists in understanding challenges, market innovations, and competitive strategies.
 
 ### 5. **Resource Collector Tool**
    - Organizes research materials, online references, and datasets.
