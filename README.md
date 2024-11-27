@@ -1,7 +1,7 @@
 
-# Research_MultiAgentAI
+# MultiAgentAI-Research-Assistant
 
-**Research_MultiAgentAI** is a framework designed to automate research workflows using multiple AI-powered tools. It includes capabilities for generating AI-driven use cases, conducting web searches, gathering industry insights, and organizing research resources. The frontend interface is powered by **Streamlit**, providing an intuitive and user-friendly experience.
+**MultiAgentAI-Research-Assistant** is a project designed to automate research workflows using multiple AI-powered tools. It includes capabilities for generating AI-driven use cases, conducting web searches, gathering industry insights, and organizing research resources. The frontend interface is powered by **Streamlit**, providing an intuitive and user-friendly experience.
 
 ---
 
